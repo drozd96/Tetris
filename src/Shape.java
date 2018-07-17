@@ -11,6 +11,7 @@ public abstract class Shape extends JPanel implements KeyListener {
     public abstract void rotateRight();
     public abstract boolean isEnd();
     public abstract void moveLeft();
+    
     public abstract void moveRight();
     public abstract void moveDown();
 
